@@ -305,7 +305,9 @@ img {
 .skills__img {
   border-radius: 0.5rem;
 }
-
+.justify {
+  text-align: justify;
+}
 /* ===== WORK =====*/
 .work__container {
   row-gap: 2rem;
